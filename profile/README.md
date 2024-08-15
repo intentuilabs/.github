@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/justdlabs/.github/f827f577eb0d0277136f6411e2ba309ef2c8375a/profile/logo.svg" width="200"></a></p>
+<p align="center"><a href="https://getjustd.com" target="_blank"><img src="https://raw.githubusercontent.com/justdlabs/.github/f827f577eb0d0277136f6411e2ba309ef2c8375a/profile/logo.svg" width="200"></a></p>
 
 ## About Justd 
 
