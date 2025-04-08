@@ -1,4 +1,4 @@
-<p align="center"><a href="https://getjustd.com" target="_blank"><img src="https://raw.githubusercontent.com/justdlabs/.github/4ab9480d0f66004fe7e27a0941e18e2aeaf6617d/profile/logo.svg" width="200"></a></p>
+<p align="center"><a href="https://getjustd.com" target="_blank"><img src="https://raw.githubusercontent.com/intentuilabs/.github/4ab9480d0f66004fe7e27a0941e18e2aeaf6617d/profile/logo.svg" width="200"></a></p>
 
 ## About Justd 
 
